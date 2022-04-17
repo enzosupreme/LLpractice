@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\enzos\source\repos\classy\classy\Inventory.h(25,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  classy.vcxproj -> C:\Users\enzos\source\repos\classy\Debug\classy.exe
